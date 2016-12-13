@@ -1,0 +1,6 @@
+[package]
+name = "spelling_list"
+version = "0.1.0"
+authors = ["DanielN <daniellnill@gmail.com>"]
+
+[dependencies]
