@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["DanielN <daniellnill@gmail.com>"]
 
 [dependencies]
+hyper = "0.9.14"
+clap = "2.19.2"
