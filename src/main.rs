@@ -1,6 +1,5 @@
 extern crate clap;
 
-//use std::env;
 use std::fs::OpenOptions;
 use std::io::BufWriter;
 use std::io::Write;
